@@ -1,2 +1,2 @@
 # blog-website
-This is a blog website that I created for an independent study. 
+This is my first milestone where I really just set up the website and established different routes for the website. 
