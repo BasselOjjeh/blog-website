@@ -1,1 +1,2 @@
-Templates is where I create all my html code to be inserted in my website. I do this via routes which then get pulled from __init__.py to app.py allowing the changes to be succesfully made on the web server. 
+Templates is where I create all my html code to be inserted in my website. I do this via routes which then get pulled from __init__.py to app.py
+allowing the changes to be succesfully made on the web server. 
