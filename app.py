@@ -1,5 +1,5 @@
 from website import create_app
-#Setting the website on local host 5000 using flask by importing a sub-package
+#Running the website and __init__.py on the flask web server
 if __name__ == "__main__":
     app = create_app()
     app.run(debug=True)
